@@ -142,11 +142,11 @@
 ## 🐛Github Magic Game
 
 <p align="center">
-  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/AmeerHamXa309/AmeerHamXa309/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
 
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
+  <img src="https://profile-counter.glitch.me/AmeerHamXa309/count.svg" />
 </p>
